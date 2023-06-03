@@ -7,3 +7,4 @@ I programmed, developed and handled the calendar from start to end.
 I followed the MVVM architecture in data flow and design.
 In case of any problem please contact me.
 You can run the application via xcode or contact me to upload a version for you to run directly on your phones.
+The approximate time it takes to work is about 16 hours
