@@ -1,0 +1,26 @@
+PODS:
+  - FSCalendar (2.8.4)
+  - SDWebImage (5.15.8):
+    - SDWebImage/Core (= 5.15.8)
+  - SDWebImage/Core (5.15.8)
+  - SDWebImageSwiftUI (2.2.3):
+    - SDWebImage (~> 5.10)
+
+DEPENDENCIES:
+  - FSCalendar
+  - SDWebImageSwiftUI
+
+SPEC REPOS:
+  trunk:
+    - FSCalendar
+    - SDWebImage
+    - SDWebImageSwiftUI
+
+SPEC CHECKSUMS:
+  FSCalendar: 2d1d0d9398f12d439f55c1fe0f01525b151b8260
+  SDWebImage: cb032eba469c54e0000e78bcb0a13cdde0a52798
+  SDWebImageSwiftUI: 17396b7889f9abc27231caaeb64c537564284aab
+
+PODFILE CHECKSUM: 7d3348caea0681d1627716eac1276a4d9d142164
+
+COCOAPODS: 1.12.1

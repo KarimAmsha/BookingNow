@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-BookNow-BookNowUITests/Pods-BookNow-BookNowUITests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/FSCalendar/FSCalendar.framework
+${BUILT_PRODUCTS_DIR}/SDWebImage/SDWebImage.framework
+${BUILT_PRODUCTS_DIR}/SDWebImageSwiftUI/SDWebImageSwiftUI.framework

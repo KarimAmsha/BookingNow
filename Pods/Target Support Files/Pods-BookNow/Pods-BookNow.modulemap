@@ -1,0 +1,6 @@
+framework module Pods_BookNow {
+  umbrella header "Pods-BookNow-umbrella.h"
+
+  export *
+  module * { export * }
+}

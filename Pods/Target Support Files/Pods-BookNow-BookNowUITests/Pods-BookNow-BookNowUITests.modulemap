@@ -1,0 +1,6 @@
+framework module Pods_BookNow_BookNowUITests {
+  umbrella header "Pods-BookNow-BookNowUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
